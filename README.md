@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WXLSN
 - 👀 I’m interested in Music Creation, Gaming & Gaming Creation 
-- 🌱 I’m currently learning Unreal Engine 5.1 
-- 💞️ I’m looking to collaborate on a couple of projects I have going on at the moment with some big Clients 
+- 🌱 I’m currently learning C++ & Unreal Engine (Basic Level) 
+- 💞️ I’m looking to network with top gaming developers to work on some incredible projects.
 - 📫 How to reach me https://www.linkedin.com/in/charles-mullins-3b2152239/ 
 
 <!---
