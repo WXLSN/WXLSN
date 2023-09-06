@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WXLSN
-- 👀 I’m interested in Music Creation, Gaming & Gaming Creation 
+- 👋 Hi, I’m Charlie from Companion Group
+- 👀 I’m interested in Music Creation, Gaming & Game Dev
 - 🌱 I’m currently learning C++ & Unreal Engine (Basic Level) 
 - 💞️ I’m looking to network with top gaming developers to work on some incredible projects.
 - 📫 How to reach me https://www.linkedin.com/in/charles-mullins-3b2152239/ 
